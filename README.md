@@ -1,2 +1,3 @@
 # SujitDemo
-This is first repository
+This is first Git repository.
+Author-Sujit S
