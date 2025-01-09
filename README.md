@@ -1,4 +1,4 @@
 # SujitDemo
 This is first Git repository.
 <br>
-Author-Sujit S
+Author-Sujit Demo
